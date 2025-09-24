@@ -11,20 +11,20 @@ order: 1
     <div class="status-indicator"></div>
   </div>
   <div class="hero-content">
-    <h1 class="hero-title">Hi, I'm <span class="highlight">Your Name</span> 👋</h1>
-    <p class="hero-subtitle">Cybersecurity Enthusiast | Full Stack Developer | CTF Player</p>
+    <h1 class="hero-title">Hi, I'm <span class="highlight">Muhammad Raihan Maftuh</span> 👋</h1>
+    <p class="hero-subtitle">Cybersecurity Enthusiast | Full Stack Developer | CTF Player | Bug Hunter</p>
   </div>
 </div>
 
 <div class="about-content">
   
   🚀 About Me
-  
-  Saya adalah seorang cybersecurity enthusiast dan full stack developer yang passionate dalam menjelajahi dunia keamanan siber dan pengembangan aplikasi. Perjalanan saya dimulai dari rasa ingin tahu yang besar tentang bagaimana sistem bekerja dan bagaimana cara melindunginya.
+  <br>
+  Saya adalah seorang cybersecurity enthusiast dan full stack developer yang passionate dalam menjelajahi dunia keamanan siber dan pengembangan aplikasi. Perjalanan saya dimulai dari rasa ingin tahu yang besar tentang bagaimana sistem bekerja dan bagaimana cara mengeksploitasinya.
   
   <div class="skills-section">
     <h3>💻 Tech Stack</h3>
-    <p class="skills-subtitle">My professional skills.</p>
+    <p class="skills-subtitle">My skills.</p>
     
     <div class="skills-marquee">
       <div class="skills-track">
