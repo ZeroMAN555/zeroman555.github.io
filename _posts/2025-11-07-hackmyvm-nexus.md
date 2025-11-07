@@ -419,7 +419,7 @@ Extract flag dari image menggunakan `strings`:
 ### Flags Captured
 
 - **User Flag:** `82kd8FJ5SJ00HMVUS3R36gd`
-- **Root Flag:** `HMV-FLAG[[ p3vhKP9d97a7HMV79ad9ks2s9 ]]`
+- **Root Flag:** `p3vhKP9d97a7HMV79ad9ks2s9`
 
 ### Attack Chain
 
